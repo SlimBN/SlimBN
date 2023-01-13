@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlimBN
 - 👀 I’m interested in Ruby on Rails, NodeJS, Laravel and SaaS applications
-- 🌱 I’m currently learning Rails 7
+- 🌱 I’m currently learning Rails 7 / RedwoodJS
 - 💞️ I’m looking to collaborate on SaaS projects, mainly in the gaming industry
 - 📫 Feel free to reach me on @hatchvenom on twitter
 
